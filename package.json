@@ -1,0 +1,19 @@
+{
+  "name": "my-library-testjs",
+  "version": "1.0.0",
+  "description": "testing if I can publish my own library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/neto18081/library-testjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neto18081/library-testjs/issues"
+  },
+  "homepage": "https://github.com/neto18081/library-testjs#readme"
+}
